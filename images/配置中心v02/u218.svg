@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="11px" height="14px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M 0 0  L 14 0  L 14 14  L 0 14  Z " fill-rule="evenodd" fill="black" id="path5" />
+    <clipPath id="clip6">
+      <use xlink:href="#path5" />
+    </clipPath>
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter7">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0  " in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g transform="matrix(1 0 0 1 -88 -1606 )">
+    <g transform="matrix(0.785714285714286 0 0 0.785714285714286 88 1607.5 )" clip-path="url(#clip6)" filter="url(#filter7)">
+      <rect x="2.04163" y="2.04199" width="3.79167" height="3.79167" stroke="#4E5969" stroke-width="1.16667" stroke-linecap="round" stroke-linejoin="round" />
+      <rect x="8.16663" y="2.04199" width="3.79167" height="3.79167" stroke="#4E5969" stroke-width="1.16667" stroke-linecap="round" stroke-linejoin="round" />
+      <rect x="2.04163" y="8.16699" width="3.79167" height="3.79167" stroke="#4E5969" stroke-width="1.16667" stroke-linecap="round" stroke-linejoin="round" />
+      <rect x="8.16663" y="8.16699" width="3.79167" height="3.79167" stroke="#4E5969" stroke-width="1.16667" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>
